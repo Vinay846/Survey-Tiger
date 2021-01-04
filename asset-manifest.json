@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Survey-Tiger/static/css/main.5b9a33d1.chunk.css",
+    "main.js": "/Survey-Tiger/static/js/main.c213d911.chunk.js",
+    "main.js.map": "/Survey-Tiger/static/js/main.c213d911.chunk.js.map",
+    "runtime-main.js": "/Survey-Tiger/static/js/runtime-main.600cde8f.js",
+    "runtime-main.js.map": "/Survey-Tiger/static/js/runtime-main.600cde8f.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Survey-Tiger/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6888f85d.chunk.js": "/Survey-Tiger/static/js/2.6888f85d.chunk.js",
+    "static/js/2.6888f85d.chunk.js.map": "/Survey-Tiger/static/js/2.6888f85d.chunk.js.map",
+    "static/js/3.13a71e86.chunk.js": "/Survey-Tiger/static/js/3.13a71e86.chunk.js",
+    "static/js/3.13a71e86.chunk.js.map": "/Survey-Tiger/static/js/3.13a71e86.chunk.js.map",
+    "index.html": "/Survey-Tiger/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Survey-Tiger/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.5b9a33d1.chunk.css.map": "/Survey-Tiger/static/css/main.5b9a33d1.chunk.css.map",
+    "static/js/2.6888f85d.chunk.js.LICENSE.txt": "/Survey-Tiger/static/js/2.6888f85d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.600cde8f.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.6888f85d.chunk.js",
+    "static/css/main.5b9a33d1.chunk.css",
+    "static/js/main.c213d911.chunk.js"
+  ]
+}
